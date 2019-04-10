@@ -1,0 +1,54 @@
+{
+  "projects": [
+    {
+      "name": "Туту.ру ЖД билеты",
+      "description": "Приложение для быстрого поиска и покупки билетов на поезда",
+      "icon_url": "https://lh3.googleusercontent.com/0Jf6mMwib3VTl9YYnlB2WKN-YL2_1ROY_OJi1w6E9A7cgW1ZfVrCk_nHgTWQeE-iIA=s360-rw"
+    },
+    {
+      "name": "Бизнес-навигатор МСП",
+      "description": "Приложение по расчету бизнес-планов для предпринимателей и тех, кто мечтает открыть своё дело",
+      "icon_url": "https://lh3.googleusercontent.com/aqMxTCxi6MhwopmUtvio4FiRGWqdAqIcYIqXjNzXRPW998Wo-fwEOPB8ML0xHhhmxE1s=s360-rw"
+    },
+    {
+      "name": "Первый",
+      "description": "Официальное приложение главного российского телеканала",
+      "icon_url": "https://lh3.googleusercontent.com/FQvq6JnmW5EHTK6vBGlF6PEgA5KNh358zfRSFLusD8Ctf13XrXQ0hfZDN9bRjjDi0Lw=s360-rw"
+    },
+    {
+      "name": "Виртуальная Школа Сбербанка",
+      "description": "Мобильная база знаний для руководителей и топ-менеджеров банка",
+      "icon_url": "https://lh3.googleusercontent.com/pF3YWBuWtsjKaLerXzYpLkB43m-43dVundKSkj511a_jbUv9Zy82Ja688QTpHRoZXTc=s360-rw"
+    },
+    {
+      "name": "Навигатор МСП. Меры поддержки ",
+      "description": "Приложение, которое помогает предпринимателям развивать свой бизнес",
+      "icon_url": "https://lh3.googleusercontent.com/LY8XTYtnycO0KuqGuSoxZrjDkxwaIl-7sqAitAdHEL7p_2n8c-Ce4TNMrExptpHyHdA=s360-rw"
+    },
+    {
+      "name": "Искусство.Вслух",
+      "description": "Приложение Сбербанка, которое помогает людям с нарушением зрения наслаждаться театром",
+      "icon_url": "https://lh3.googleusercontent.com/TcA5urTk6pBHNzwzXedQgkBuh-fvk8snY4FbMhMCjBHXMGUm9PriX3pumLbTtyY4zg=s360-rw"
+    },
+    {
+      "name": "Yami Yami",
+      "description": "Приложение для самой дружелюбной доставки еды",
+      "icon_url": "https://lh3.googleusercontent.com/YHHoq9NuVoTGY6XcaK7Ji-4dmG2zUegazsTyY67QJmZSxvyf9zxY-qZTzmq1mNmZrW8=s360-rw"
+    },
+    {
+      "name": "Вечерний Ургант",
+      "description": "Официальное приложение популярного развлекательного шоу",
+      "icon_url": "https://lh3.googleusercontent.com/LJxpuFOOh6coo1N0ipjsfpNz0WTYdQ8cF9aQrOqjmJNPkBEE5BRzgjC9AxCV6nSmNmc=s360-rw"
+    },
+    {
+      "name": "DMV Genius",
+      "description": "Приложения для подготовки к сдаче водительского экзамена в США, Канаде и Великобритании",
+      "icon_url": "https://lh3.googleusercontent.com/e4dWLemlY1f_dc1_4z9Tbd1lqwtp1aHx5a7mHvJMvTUoVIKum6rHUkPqZf9LjPDcFQ=s360-rw"
+    },
+    {
+      "name": "Велогород",
+      "description": "Приложение для городского велопроката Санкт-Петербурга",
+      "icon_url": "https://lh3.googleusercontent.com/R-YNRt8HuRL47gVbibaRF1b0yX7CuFjsz8oW8RBjvEmhBc4XklRUjE5HamWy2mqW3CU=s360-rw"
+    }
+  ]
+}
